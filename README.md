@@ -10,7 +10,7 @@ A public issue tracker and discussion repository for TownSuite software.  This l
         * Screenshots must have private data obscured.
         * No municipality data is to be uploaded.
         * No names, addresses, credit card, banking, or general person identifiable information.
-3. [Code of conduct](https://github.com/TownSuite/public-tracker/blob/main/code_of_conduct.md) to be followed.
+3. [Code of conduct](https://github.com/TownSuite/public-tracker/blob/main/CODE_OF_CONDUCT.md) to be followed.
 
 # Privacy
 
