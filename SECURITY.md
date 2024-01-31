@@ -14,5 +14,5 @@ A LTS release will generally be labeled as with a YEAR.RELEASE format such aa __
 
 ## Reporting a Vulnerability
 
-Please report (suspected) security vulnerabilities to the TownSuite support department. 
-You will receive a response from us within one business day. If the issue is confirmed, we will release a patch as soon as possible.
+Please report (suspected) security vulnerabilities to the TownSuite DevSec.  See the [Developer Roster](https://metrics.townsuite.com/d/y9lupRR7z/developer-rosters?orgId=1) for the current DevSec. 
+If the issue is confirmed, we will release a patch as soon as possible.
